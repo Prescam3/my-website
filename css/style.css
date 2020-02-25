@@ -1,0 +1,18 @@
+@import url(./font.css);
+@import url(./partials/variables.css)
+
+
+.header_area .main-menu .navbar{
+	padding: 1rem 20rem;
+}
+.header_area.main-menu.nav-link{
+	font-family: var(--roboto);
+	text-transform: uppercase;
+	font-weight: 500;
+	padding: 1.7rem;
+	color: var(--title-color);
+}
+ <span><img src="./img/mail.jpg" alt="mailto:"></span>
+						   <a href="mailto:prescam3@gmail.com" >prescam3@gmail.com</a>.<br>Residential Address:<br>House no 20057,Teneriffe<br>South Africa
+						   </address>
+									
